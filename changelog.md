@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [2.0.0] - 2020-07-02
+- replaced --date-picker-dropdown-gap with --date-picker-calendar-gap
+- added --date-picker-calendar-padding variable
+- added --date-picker-calendar-item-size variable
+- added --date-picker-calendar-item-radius variable
+- added "custom-control" variation
+
 ## [1.1.2] - 2020-05-15
 - Bug fixed: selected day visible regardless of th month selection
 
