@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [2.0.1] - 2020-07-09
+- Added viewport awareness: date picker position changes based on the available space
+
 ## [2.0.0] - 2020-07-02
 - replaced --date-picker-dropdown-gap with --date-picker-calendar-gap
 - added --date-picker-calendar-padding variable
