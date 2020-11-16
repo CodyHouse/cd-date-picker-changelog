@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [2.0.2] - 2020-11-16
+- Added type attribute to button elements
+
 ## [2.0.1] - 2020-07-13
 - Fixed minor issue with viewport awareness
 
