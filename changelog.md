@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [2.0.3] - 2021-01-12
+- Fixed issue with month selection
+
 ## [2.0.2] - 2020-11-16
 - Added type attribute to button elements
 
